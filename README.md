@@ -6,7 +6,7 @@ I’m a recent Computer Science graduate from California State University, Fulle
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity and software development, and I am now eager to transition into this field, specifically aiming to join as a Tier 1 Security Operations Center (SOC) Analyst or a Software Engineer 1.
+My journey in computer science has led me to develop a passion for cybersecurity and software development, and I am now eager to transition into this field, specifically aiming to join as a Tier 1 Security Operations Center (SOC) Analyst or as a Software Engineer 1.
 
 ## Skills
 
