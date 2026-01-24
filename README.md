@@ -6,7 +6,7 @@ I’m a recent Computer Science graduate from California State University, Fulle
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science has led me to develop a passion for cybersecurity and software development, and I am now eager to transition into this field, specifically aiming to join as a Tier 1 Security Operations Center (SOC) Analyst or a Software Engineer 1.
 
 ## Skills
 
@@ -15,7 +15,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | SOC Detection Pipeline Config/Analysis          | <a href="https://github.com/samirshivji/SOC-Detection-Pipeline-Config-Analysis-Home-Lab-/tree/main">SOC Detection Pipeline Config/Analysis (Home Lab)</a>|
 
 ## Tools
-
+VS Code | Postman | MySQL Workbench | Azure | AWS | Linux | Virtual Machines | MongoDB Compass | JavaScript | TypeScript | React | Node.js | Express.js | MongoDB | Mongoose | C++ | Python | SQL | REST APIs
+| GitHub | MVC | UI/UX | Agile | Debugging & Troubleshooting | Active Directory | Nmap | Wireshark | SIEM | Windows Server
 
 ### Network
 <div>
