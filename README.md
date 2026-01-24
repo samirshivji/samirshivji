@@ -15,7 +15,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | SOC Detection Pipeline Config/Analysis          | <a href="https://github.com/samirshivji/SOC-Detection-Pipeline-Config-Analysis-Home-Lab-/tree/main">SOC Detection Pipeline Config/Analysis (Home Lab)</a>|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
@@ -49,3 +49,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - Detection Lab
 - SOC Automation Project
+- Hybrid Windows Active Directory Configuration 
+- Full-Stack Inventory Managment System
