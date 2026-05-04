@@ -13,6 +13,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SOC Detection Pipeline Config/Analysis          | <a href="https://github.com/samirshivji/SOC-Detection-Pipeline-Config-Analysis-Home-Lab-/tree/main">SOC Detection Pipeline Config/Analysis (Home Lab)</a>|
+| Robot Fleet Performance Dashboard          | <a href="https://github.com/samirshivji/Robot-Preformance-Dash/tree/main">Robot Fleet Performance Dashboard (SWE, Data Analysis)</a>|
+
+
+https://github.com/samirshivji/Robot-Preformance-Dash/tree/main
 
 ## Tools
 VS Code | Postman | MySQL Workbench | Azure | AWS | Linux | Virtual Machines | MongoDB Compass | JavaScript | TypeScript | React | Node.js | Express.js | MongoDB | Mongoose | C++ | Python | SQL | REST APIs
