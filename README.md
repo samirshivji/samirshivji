@@ -1,58 +1,114 @@
-# Hello, I'm Samir Shivji
-<a href="https://www.linkedin.com/in/samir-shivji/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# 👋 Hello, I'm Samir Shivji  
+<a href="https://www.linkedin.com/in/samir-shivji/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
+🎓 Computer Science Graduate — California State University, Fullerton  
+💻 Software Engineer | 📊 Data Analyst | 🔐 Cybersecurity | 🖥️ IT  
 
-I’m a recent Computer Science graduate from California State University, Fullerton with a strong foundation in software development, data analysis, and cybersecurity.
+---
 
-## Objective
+## 🚀 About Me  
 
-My journey in computer science has led me to develop a passion for cybersecurity and software development, and I am now eager to transition into this field, specifically aiming to join as a Tier 1 Security Operations Center (SOC) Analyst or as a Software Engineer 1.
+I’m a Computer Science graduate with hands-on experience across **software development, data analysis, IT systems, and cybersecurity**. My work focuses on building practical, data-driven solutions—ranging from full-stack applications to security monitoring environments and analytics dashboards.
 
-## Skills
+I enjoy solving problems at different layers of technology:  
+- Designing and building scalable applications  
+- Analyzing and visualizing data for insights  
+- Securing systems through monitoring and detection  
+- Troubleshooting and optimizing IT infrastructure  
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SOC Detection Pipeline Config/Analysis          | <a href="https://github.com/samirshivji/SOC-Detection-Pipeline-Config-Analysis-Home-Lab-/tree/main">SOC Detection Pipeline Config/Analysis (Home Lab)</a>|
-| Robot Fleet Performance Dashboard          | <a href="https://github.com/samirshivji/Robot-Preformance-Dash/tree/main">Robot Fleet Performance Dashboard (SWE, Data Analysis)</a>|
+---
 
+## 🎯 Career Focus  
 
-https://github.com/samirshivji/Robot-Preformance-Dash/tree/main
+I’m currently pursuing opportunities where I can contribute as a:  
+- **Software Engineer (Backend / Full-Stack)**  
+- **Data Analyst / Data Engineer (Entry-Level)**  
+- **IT / Systems Support Specialist**  
+- **Cybersecurity Analyst (SOC / Blue Team)**  
 
-## Tools
-VS Code | Postman | MySQL Workbench | Azure | AWS | Linux | Virtual Machines | MongoDB Compass | JavaScript | TypeScript | React | Node.js | Express.js | MongoDB | Mongoose | C++ | Python | SQL | REST APIs
-| GitHub | MVC | UI/UX | Agile | Debugging & Troubleshooting | Active Directory | Nmap | Wireshark | SIEM | Windows Server
+I’m especially interested in roles that blend **engineering + data + security**.
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+---
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+## 🛠️ Technical Skills  
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+### 💻 Programming & Development  
+`Python` | `C++` | `JavaScript` | `TypeScript` | `SQL`  
+`React` | `Node.js` | `Express.js` | `REST APIs`  
 
-## Certifications
+### 📊 Data & Analytics  
+`Data Analysis` | `Dashboarding` | `Data Visualization`  
+`MySQL` | `MongoDB` | `Data Cleaning`  
 
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+### 🔐 Cybersecurity  
+`SIEM (Splunk, Microsoft Sentinel, Elastic)`  
+`Network Analysis (Wireshark, Zeek, Suricata)`  
+`Endpoint Security (Microsoft Defender, Velociraptor)`  
+`Threat Detection & Log Analysis`  
 
+### 🖥️ IT & Systems  
+`Linux` | `Windows Server` | `Active Directory`  
+`Virtual Machines` | `Cloud (AWS, Azure)`  
+`Networking Fundamentals` | `Troubleshooting`  
 
-</div>
+### ⚙️ Tools & Practices  
+`Git & GitHub` | `VS Code` | `Postman`  
+`Agile Development` | `MVC Architecture`  
+`Debugging & Performance Optimization`  
 
-## Projects
-- Detection Lab
-- SOC Automation Project
-- Hybrid Windows Active Directory Configuration 
-- Full-Stack Inventory Managment System
+---
+
+## 📌 Featured Projects  
+
+### 🔍 SOC Detection Pipeline & Home Lab  
+➡️ Simulated real-world SOC environment with log ingestion, detection rules, and alert analysis  
+- Built detection pipelines using SIEM tools  
+- Analyzed attack patterns and system logs  
+- Improved alert accuracy and response workflows  
+
+🔗 https://github.com/samirshivji/SOC-Detection-Pipeline-Config-Analysis-Home-Lab-/tree/main  
+
+---
+
+### 🤖 Robot Fleet Performance Dashboard  
+➡️ Full-stack + data analytics project for monitoring system performance  
+- Built interactive dashboards with filtering and metrics tracking  
+- Simulated real-world system noise and error conditions  
+- Tracked success rates, performance trends, and anomalies  
+
+🔗 https://github.com/samirshivji/Robot-Preformance-Dash/tree/main  
+
+---
+
+### 🧰 Additional Projects  
+- **SOC Automation Project** – Automated alert workflows and log parsing  
+- **Hybrid Active Directory Lab** – Windows Server + identity management setup  
+- **Inventory Management System** – Full-stack CRUD application  
+- **Detection Lab** – Security monitoring and attack simulation  
+
+---
+
+## 📜 Certifications  
+
+- 🛡️ CompTIA Security+  
+- ☁️ AWS Certified Cloud Practitioner  
+
+---
+
+## 📈 What I’m Working On  
+
+- Expanding cloud + security integrations (AWS / Azure security tooling)  
+- Building more **data-driven applications** with real-world datasets  
+- Strengthening **backend system design and scalability**  
+- Practicing **LeetCode / DSA for SWE roles**  
+
+---
+
+## 🤝 Let’s Connect  
+
+I’m always open to opportunities, collaboration, or just talking tech.
+
+📫 Reach me on LinkedIn:  
+https://www.linkedin.com/in/samir-shivji/
